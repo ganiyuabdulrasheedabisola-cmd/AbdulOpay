@@ -1,0 +1,10 @@
+.profile-pic {
+    background-image: url('./assets/6907987b2af184e5db842f91fc79e80b.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 7vh;
+    width: 9vw;
+    justify-content: center;
+    align-items: center;
+}
